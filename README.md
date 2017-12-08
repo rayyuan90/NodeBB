@@ -23,7 +23,7 @@ Additional functionality is enabled through the use of third-party plugins.
 
 NodeBB's theming engine is highly flexible and does not restrict your design choices. Check out some themed installs in these screenshots below:
 
-[!](http://i.imgur.com/VCoOFyq.png)
+[![](http://i.imgur.com/VCoOFyqb.png)](http://i.imgur.com/VCoOFyq.png)
 [![](http://i.imgur.com/FLOUuIqb.png)](http://i.imgur.com/FLOUuIq.png)
 [![](http://i.imgur.com/Ud1LrfIb.png)](http://i.imgur.com/Ud1LrfI.png)
 [![](http://i.imgur.com/h6yZ66sb.png)](http://i.imgur.com/h6yZ66s.png)
@@ -34,7 +34,7 @@ NodeBB's theming engine is highly flexible and does not restrict your design cho
 
 Our minimalist "Persona" theme gets you going right away, no coding experience required.
 
-[![](http://i.imgur.com/HwNEXGu.png)](http://i.imgur.com/HwNEXGu.png)
+[](http://i.imgur.com/HwNEXGu.png)
 [![](http://i.imgur.com/II1byYs.png)](http://i.imgur.com/II1byYs.png)
 
 
